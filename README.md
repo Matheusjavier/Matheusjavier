@@ -1,28 +1,81 @@
-<h1 align="center">Olá 👋, Eu sou Matheus Javier</h1>
-<h3 align="center">Sou apaixonado por desenvolvimento de softwares</h3>
+Olá! 👋, Sou Matheus Javier
+&lt;h3 align="center" style="color:#a8b9cc;">Apaixonado por desvendar os mistérios do desenvolvimento de softwares. 🚀&lt;/h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusjavier&label=Profile%20views&color=0e75b6&style=flat" alt="matheusjavier" /> </p>
+&lt;p align="center">
+&lt;img src="[suspicious link removed]" alt="Visualizações do Perfil" />
+&lt;/p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheusjavier" alt="matheusjavier" /></a> </p>
+&lt;p align="center">
+&lt;a href="[suspicious link removed]">&lt;img src="[suspicious link removed]" alt="Conquistas GitHub" />&lt;/a>
+&lt;/p>
 
-- 👨‍💻 All of my projects are available at [https://portifolio-matheus-javiers-projects.vercel.app](https://portifolio-matheus-javiers-projects.vercel.app)
+&lt;hr style="border-top: 2px dashed #30363d;">
 
-- 📫 How to reach me **matheusjnp14@gmail.com**
+🔭 Meus Projetos no Universo Digital:
+🌌 Explore a galáxia dos meus projetos em: https://portifolio-matheus-javiers-projects.vercel.app
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+📬 Conecte-se na Órbita Certa:
+Sinta-se à vontade para me enviar um sinal de fumaça digital para: matheusjnp14@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/matheus-javier/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheus-javier/" height="30" width="40" /></a>
-</p>
+📜 Registros Cósmicos (Blog):
+&lt;hr style="border-top: 2px dashed #30363d;">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+🔗 Siga Minha Trajetória Estelar:
+&lt;p align="center">
+&lt;a href="[suspicious link removed]" target="_blank" style="margin-right: 10px;">
+&lt;img align="center" src="[suspicious link removed]" alt="Dev.to" height="30" width="40" style="filter: invert(75%);" />
+&lt;/a>
+&lt;a href="[suspicious link removed]" target="_blank">
+&lt;img align="center" src="[suspicious link removed]" alt="LinkedIn" height="30" width="40" style="filter: invert(75%);" />
+&lt;/a>
+&lt;/p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusjavier&show_icons=true&locale=en&layout=compact" alt="matheusjavier" /></p>
+&lt;hr style="border-top: 2px dashed #30363d;">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusjavier&show_icons=true&locale=en" alt="matheusjavier" /></p>
+🛠️ Ferramentas e Linguagens que Habitam Meu Universo:
+&lt;p align="center">
+&lt;a href="[suspicious link removed]" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+&lt;img src="[suspicious link removed]" alt="Bootstrap" width="40" height="40" style="filter: invert(75%);" />
+&lt;/a>
+&lt;a href="[suspicious link removed]" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+&lt;img src="[suspicious link removed]" alt="C#" width="40" height="40" style="filter: invert(75%);" />
+&lt;/a>
+&lt;a href="[suspicious link removed]" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+&lt;img src="[suspicious link removed]" alt="CSS3" width="40" height="40" style="filter: invert(75%);" />
+&lt;/a>
+&lt;a href="[suspicious link removed]" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+&lt;img src="[suspicious link removed]" alt=".NET" width="40" height="40" style="filter: invert(75%);" />
+&lt;/a>
+&lt;a href="[suspicious link removed]" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+&lt;img src="[suspicious link removed]" alt="Git" width="40" height="40" style="filter: invert(75%);" />
+&lt;/a>
+&lt;a href="[suspicious link removed]" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+&lt;img src="[suspicious link removed]" alt="HTML5" width="40" height="40" style="filter: invert(75%);" />
+&lt;/a>
+&lt;a href="[suspicious link removed]" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+&lt;img src="[suspicious link removed]" alt="Java" width="40" height="40" style="filter: invert(75%);" />
+&lt;/a>
+&lt;a href="[suspicious link removed]" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+&lt;img src="[suspicious link removed]" alt="JavaScript" width="40" height="40" style="filter: invert(75%);" />
+&lt;/a>
+&lt;a href="[suspicious link removed]" target="_blank" rel="noreferrer">
+&lt;img src="[suspicious link removed]" alt="Microsoft SQL Server" width="40" height="40" style="filter: invert(75%);" />
+&lt;/a>
+&lt;/p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusjavier&" alt="matheusjavier" /></p>
+&lt;hr style="border-top: 2px dashed #30363d;">
+
+📊 Estatísticas Cósmicas:
+&lt;p align="center">
+&lt;img align="center" src="[suspicious link removed]" alt="Linguagens Mais Usadas" />
+&lt;/p>
+
+&lt;p align="center">
+&lt;img align="center" src="[suspicious link removed]" alt="Estatísticas do GitHub" />
+&lt;/p>
+
+&lt;p align="center">
+&lt;img align="center" src="[suspicious link removed]" alt="Sequência de Contribuições" />
+&lt;/p>
+
+✨ Que a força do código esteja com você! ✨
